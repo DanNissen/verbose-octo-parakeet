@@ -2,7 +2,7 @@ import OlMap from "ol/Map";
 import View from "ol/View";
 import { fromLonLat } from "ol/proj";
 import { Tile } from "ol/layer";
-import { OSM } from "ol/source";
+import OSM from 'ol/source/OSM'
 import VectorLayer from "ol/layer/Vector";
 import VectorSource from "ol/source/Vector";
 import { createContext, useContext } from "react";
