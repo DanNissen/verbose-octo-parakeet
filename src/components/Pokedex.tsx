@@ -38,8 +38,8 @@ const Pokedex: React.FC = () => {
           <a href="https://openlayers.org/en/latest/examples/draw-and-modify-features.html">
             Check out this example
           </a>
-          <li>Walk us through how you would start testing this app</li>
         </li>
+        <li>Walk us through how you would start testing this app</li>
       </ul>
     </div>
   );
